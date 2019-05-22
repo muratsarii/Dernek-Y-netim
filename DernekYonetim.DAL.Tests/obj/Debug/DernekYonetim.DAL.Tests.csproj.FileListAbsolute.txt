@@ -1,0 +1,2 @@
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csprojAssemblyReference.cache
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL.Tests\obj\Debug\DernekYonetim.DAL.Tests.csproj.CoreCompileInputs.cache

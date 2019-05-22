@@ -1,0 +1,12 @@
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+F:\Kurs - Ayvansaray\C# - KursOrnekler\DernekYonetim\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.dll
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\bin\Debug\DernekYonetim.DAL.pdb
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csprojAssemblyReference.cache
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.csproj.CoreCompileInputs.cache
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.dll
+F:\Kurs - Ayvansaray\C# - KursOrnekler\Win-DernekYonetim(KatmanlıMimari)\DernekYonetim.DAL\obj\Debug\DernekYonetim.DAL.pdb
